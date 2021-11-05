@@ -1,1 +1,15 @@
 theme: jekyll-theme-minimal
+
+
+title: System Design
+description: A place to collect information about System Design
+
+permalink: pretty
+
+exclude: ["README.md"]
+
+# Enable or disable the site search
+search_enabled: true
+
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: nil
